@@ -3,5 +3,5 @@ strip1.clear()
 strip1.rotate(1)
 strip1.show()
 basic.forever(function () {
-	
+    strip1.show()
 })
