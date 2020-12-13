@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "magig bit prueba": "github:stephanef78/magig-bit-prueba#478e2c7f67df0c1255c2dce2d26cfacf1a6c68e2"
+        "magig bit prueba": "github:stephanef78/magig-bit-prueba#478e2c7f67df0c1255c2dce2d26cfacf1a6c68e2",
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
